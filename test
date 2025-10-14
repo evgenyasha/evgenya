@@ -9,7 +9,7 @@
 <internal_id>50404614</internal_id>
 <link>https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D0%BD%D0%BD%D0%B8-%D0%9F%D1%83%D1%85</link>
 <source_id>0</source_id>
-<view>22</view>
+<view>18</view>
 </offer>
 <offer>
 <internal_id>47906892</internal_id>
@@ -18,5 +18,11 @@
 <offer>
 <internal_id>49970107</internal_id>
 <view>51</view>
+</offer>
+<offer>
+<internal_id>50404558</internal_id>
+<link>пупупупу</link>
+<source_id>55775398</source_id>
+<view>10</view>
 </offer>
 </realty-feed>
