@@ -25,4 +25,10 @@
 <source_id>55775398</source_id>
 <view>10</view>
 </offer>
+<offer>
+<internal_id>49924042</internal_id>
+<link>https://crm-test.topnlab.ru/objects/sale/realty</link>
+<source_id>55775398</source_id>
+<view>0</view>
+</offer>
 </realty-feed>
